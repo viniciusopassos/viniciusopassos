@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <a href = "mailto:viniciusopassos@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"" target="_blank"></a>
 <a href="https://www.linkedin.com/in/viniciusopassos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://api.whatsapp.com/send?phone=31988847303" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
-
-
 </div>
+  
+![Snake animation](https://github.com/viniciusOP/viniciusOP/blob/output/github-contribution-grid-snake.svg)
 
