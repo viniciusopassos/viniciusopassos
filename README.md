@@ -1,4 +1,4 @@
-### Hi there 👋
+### opa! Eu sou Vinícius Passos ( O Vini ) 👋
 
 <!--
 **viniciusOP/viniciusOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
