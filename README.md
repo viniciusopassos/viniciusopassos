@@ -3,7 +3,7 @@ ___
 ### Opa! Eu sou Vinícius Passos ( O Vini ) 👋
 
 - 🔭 Engenheiro em transição de carreira
-- 🌱 Atualmente estudante de desenvolvimento web na Trybe | turmaXP em parceria com a XP.inc 
+- 🌱 Atualmente estudante do módulo ciência da computação na Trybe | turmaXP 
 - 💬 Caso precise/queira fazer alguma pergunta, estou a disposição e pronto pra ajudar no que for preciso
 - 📫 meu email é: viniciusopassos@hotmail.com
 <!--
