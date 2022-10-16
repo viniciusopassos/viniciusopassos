@@ -1,6 +1,6 @@
 ___
 
-### Opa! Eu sou Vinícius Passos ( O Vipa ) 👋 
+<h3 align="center"> Opa! Eu sou Vinícius Passos ( O Vipa ) 👋  </h3> 
 
 - 🔭 Engenheiro em transição de carreira
 - 🌱 Atualmente estudante das linguagens Python e C# no módulo ciência da computação na Trybe | turmaXP 
