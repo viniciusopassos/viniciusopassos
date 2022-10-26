@@ -3,7 +3,7 @@ ___
 <h3 align="center"> Opa! Eu sou Vinícius Passos ( O Vipa ) 👋  </h3> 
 
 - 🔭 Engenheiro em transição de carreira
-- 🌱 Atualmente estudante das linguagens Python e C# no módulo ciência da computação na Trybe | turmaXP 
+- 🌱 Atualmente estudante da linguagem .NET / C# no módulo ciência da computação na Trybe | turmaXP 
 - 💬 Caso precise/queira fazer alguma pergunta, estou a disposição e pronto pra ajudar no que for preciso
 - 📫 meu email é: viniciusopassos@hotmail.com
 <!--
