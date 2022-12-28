@@ -3,7 +3,7 @@ ___
 <h3 align="center"> Opa! Eu sou Vinícius Passos ( O Vipa ) 👋  </h3> 
 
 - 🔭 Engenheiro em transição de carreira
-- 🌱 Atualmente estudante da linguagem .NET / C# no módulo ciência da computação na Trybe | turmaXP 
+- 🌱 Atualmente estudando a linguagem de programação C#. 
 - 💬 Caso precise/queira fazer alguma pergunta, estou a disposição e pronto pra ajudar no que for preciso
 - 📫 meu email é: viniciusopassos@hotmail.com
 <!--
@@ -35,6 +35,8 @@ ___
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"><img align="center" alt="Nodejs" width="50" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/240d9f9177236e5fd117a33e31e5b77b5fece5f03410fe10f5c7835937fb3506/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d706c61696e2d776f72646d61726b2e737667"><img align="center" alt="Docker" height="40" width="50" src="https://camo.githubusercontent.com/240d9f9177236e5fd117a33e31e5b77b5fece5f03410fe10f5c7835937fb3506/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d706c61696e2d776f72646d61726b2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"><img align="center" alt="MySQL" width="50" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"><img align="center" alt="dotnet" width="50" height="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg"><img align="center" alt="csharp" width="50" height="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" style="max-width: 100%;"></a>
 </div>
 
 ___
