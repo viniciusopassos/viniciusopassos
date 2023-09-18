@@ -2,7 +2,7 @@ ___
 
 <h3 align="center"> Opa! Eu sou Vinícius Passos ( O Vipa ) 👋  </h3> 
 
-- 🔭 Desenvolvedor Fullstack na empresa AmorSaude
+- 🔭 Desenvolvedor Fullstack na empresa AmorSaúde
 - 🌱 Atualmente integro o squad Odonto participando na sustentação do sistema e desenvolvimento de novas funcionalidades. 
 - 💬 Caso precise/queira fazer alguma pergunta, estou a disposição e pronto pra ajudar no que for preciso
 - 📫 meu email é: viniciusopassos@hotmail.com
